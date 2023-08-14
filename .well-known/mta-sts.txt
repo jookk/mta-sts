@@ -1,1 +1,4 @@
-
+version: STSv1
+mode: testing
+mx: orencak.eu
+max_age: 604800
